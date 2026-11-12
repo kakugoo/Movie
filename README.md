@@ -1,4 +1,4 @@
-#MovieApp for IOS
+MovieApp for IOS
 
 Выполнил Степанов А. Ю. БПИ263
 
